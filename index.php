@@ -19,11 +19,11 @@
                       </button>
                       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                          <a class="nav-link active" aria-current="page" href="#">Home</a>
-                          <a class="nav-link" href="departments.html">departments</a>
-                          <a class="nav-link" href="gallery.html">gallery</a>
-                          <a class="nav-link" href="contact.html">contact</a>
-                          <a class="nav-link" href="about.html">about us</a>
+                          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                          <a class="nav-link" href="departments.php">departments</a>
+                          <a class="nav-link" href="gallery.php">gallery</a>
+                          <a class="nav-link" href="contact.php">contact</a>
+                          <a class="nav-link" href="about.php">about us</a>
                           
                         </div>
                       </div>
