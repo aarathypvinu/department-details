@@ -40,7 +40,7 @@
 
             </div>
             <div class="row">
-              <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+              <div class="col col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                 <table class="table-borderless">
                     <tr>
                         <td>username</td>
@@ -60,7 +60,7 @@
             </div>
             
             <div class="row">
-              <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+              <div class="col col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
                       <h2 class="accordion-header" id="headingOne">
