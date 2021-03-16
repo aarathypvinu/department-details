@@ -9,6 +9,23 @@
 </head>
 <body>
     <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">gallery</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+          <a class="nav-link" href="departments.php">departments</a>
+          <a class="nav-link" href="contact.php">contact</a>
+          <a class="nav-link" href="about.php">about us</a>
+         
+        </div>
+      </div>
+    </div>
+  </nav>
         
         
 <div class="row">
@@ -44,23 +61,7 @@
         <img height="300" width="300" src="https://rajagiri.edu/uploads/happening/18/image.jpg" class="img-thumbnail" alt="...">
     </div>
 </div>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">gallery</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-          <a class="nav-link" href="#">departments</a>
-          <a class="nav-link" href="#">contact</a>
-          <a class="nav-link" href="#">about us</a>
-         
-        </div>
-      </div>
-    </div>
-  </nav>
+
        
     </div>
     </div>
