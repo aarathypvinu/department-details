@@ -33,9 +33,11 @@
                       </div>
                     </div>
                   </nav>
-<div class="class">
+                  
+<div class="container">
+    <div class="class">
     <div class="row">
-        <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+        <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><br><br><br>
             <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
@@ -53,15 +55,16 @@
                 
               </div>
         </div>
-        <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-        <div class="card" style="width: 18rem;">
-  <img  height="500px" width="600px"  src="https://upload.wikimedia.org/wikipedia/commons/2/25/Rajagiri_college_of_social_science.jpg" class="card-img-top" alt="...">
+    
+    <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><br><br><br><br><br><br>
+    <div class="card" style="width: 27rem;">
+  <img height="200px"and width ="50px" src="https://i2.wp.com/coverlettersandresume.com/wp-content/uploads/Computer-Science-Intern-Cover-Letter-Sample-Banner-1.jpg?fit=672%2C243&ssl=1" class="card-img-top" alt="...">
   
 </div>
     </div>
-    </div>
+
 </div>
-</div>
+
 <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script> 
 </body>
