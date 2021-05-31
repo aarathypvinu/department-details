@@ -35,7 +35,7 @@
                   </nav>
 <div class="class">
     <div class="row">
-        <div class="col col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+        <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
             <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
@@ -53,6 +53,12 @@
                 
               </div>
         </div>
+        <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+        <div class="card" style="width: 18rem;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Rajagiri_college_of_social_science.jpg" class="card-img-top" alt="...">
+  
+</div>
+    </div>
     </div>
 </div>
 </div>

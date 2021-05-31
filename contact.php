@@ -8,6 +8,7 @@
     <title>contact</title>
 </head>
 <body>
+<div class="container">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">contact</a>
@@ -33,7 +34,10 @@
       </div>
     </div>
   </nav>
-  <table class="table-borderless">
+  <div class="row">
+  <div class="col col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6" >
+ 
+  <table class="table table-borderless">
     <tr>
       <td>dean of the department </td>
       <td><button class="btn btn">bindiya@rajagiri.edu</button></td>
@@ -47,7 +51,15 @@
       <td><button class="btn btn">sunu@rajagiri.edu</button></td>
     </tr>
   </table>
+  </div>
+  </div>
+  </div>
+  <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+  <div class="card" style="width: 18rem;">
+  <img src="https://rajagiri.edu/uploads/programs-offered/2/image.jpg" class="card-img-top" alt="...">
   
+</div>
+  </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>  
 </body>
 </html>
