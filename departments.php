@@ -55,7 +55,7 @@
         </div>
         <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
         <div class="card" style="width: 18rem;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Rajagiri_college_of_social_science.jpg" class="card-img-top" alt="...">
+  <img  height="500px" width="600px"  src="https://upload.wikimedia.org/wikipedia/commons/2/25/Rajagiri_college_of_social_science.jpg" class="card-img-top" alt="...">
   
 </div>
     </div>

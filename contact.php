@@ -52,11 +52,11 @@
     </tr>
   </table>
   </div>
-  </div>
+  
   </div>
   <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
   <div class="card" style="width: 18rem;">
-  <img src="https://rajagiri.edu/uploads/programs-offered/2/image.jpg" class="card-img-top" alt="...">
+  <img  height="500px" width="600px"  src="https://rajagiri.edu/uploads/programs-offered/2/image.jpg" class="card-img-top" alt="...">
   
 </div>
   </div>
